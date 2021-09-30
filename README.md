@@ -4,5 +4,8 @@ This code I wrote allows you to multiply two javascript arrays, given that they 
 simply call `matrixMultiply(matrixA, matrixB)` to use it
 it will return the resulting matrix
 
-useage example `console.log(matrixMultiply(matrixA, matrixB))`
-output:`matrixC[contents]`
+useage example:
+`console.log(matrixMultiply(matrixA, matrixB))`
+
+output:
+`matrixC[contents]`
